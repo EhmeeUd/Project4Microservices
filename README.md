@@ -1,6 +1,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/EhmeeUd/Project4Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/EhmeeUd/Project4Microservices/tree/main)
 
-# ProjecT4Microservices
+# Project4Microservices
 
 # PROJECT SUMMARY
 In this project, I applied the skills I have acquired in this course to operationalize a Machine Learning Microservice API.
