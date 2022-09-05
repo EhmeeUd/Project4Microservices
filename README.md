@@ -1,5 +1,7 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/EhmeeUd/Project4Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/EhmeeUd/Project4Microservices/tree/main)
 
+#Project4Microservices
+
 # Project Summary
 In this project, I applied the skills I have acquired in this course to operationalize a Machine Learning Microservice API.
 
@@ -30,3 +32,5 @@ Great project
 8. Finally i ran **minikube delete** to delete my cluster
 
 Finally I built my **.circleci/config.yml** and uploaded to my github repo which was automatically built by circleci
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/EhmeeUd/Project4Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/EhmeeUd/Project4Microservices/tree/main)
